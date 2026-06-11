@@ -12,7 +12,7 @@ Der Kurs ist so gestaltet, dass Lernende sich eigenständig durch die Inhalte na
 Lehrkräfte dürfen diesen Kurs frei nutzen und an ihre Bedürfnisse und Lerngruppen anpassen. Er steht als Open Educational Resource (OER) zur Verfügung.</p>
 <p><strong>Lizenz</strong><br>
 Dieser Selbstlernkurs steht unter der Lizenz Creative Commons Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0).
-Sie dürfen den Kurs verwenden, kopieren, verändern und weitergeben, sofern mein Name als Urheberin genannt wird und bearbeitete Fassungen unter derselben Lizenz weitergegeben werden.
+Sie dürfen den Kurs verwenden, kopieren, verändern und weitergeben, sofern mein Name als Urheberin genannt wird und bearbeitete Fassungen unter derselben Lizenz weitergegeben werden.</p>
 <p>Namensnennung:</p>
 <p>Selbstlernkurs „Grundlagen Künstlicher Intelligenz“ von Marina Boonyaprasop-Meister</p>
 <p>SPDX-License-Identifier: CC-BY-SA-4.0</p>
