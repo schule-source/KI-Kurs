@@ -30,3 +30,5 @@ Sie dürfen den Kurs verwenden, kopieren, verändern und weitergeben, sofern mei
 
 <p><strong>Lizenztext:</strong></p>
 <p>https://creativecommons.org/licenses/by-sa/4.0/</p>
+
+<p><strong>Passwort für den Demo-Modus: demo-kurs</strong><br>
