@@ -31,4 +31,6 @@ Sie dürfen den Kurs verwenden, kopieren, verändern und weitergeben, sofern mei
 <p><strong>Lizenztext:</strong></p>
 <p>https://creativecommons.org/licenses/by-sa/4.0/</p>
 
-<p><strong>Passwort für den Demo-Modus: demo-kurs</strong><br>
+<p><strong>Passwort für den Demo-Modus: kurs-demo</strong><br>
+  
+<p><strong>Direkte Demo-Version und weitere Informationen:</strong> boonyaprasop.de<br>
